@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\timesheet-app",
+    "\\timesheet-app\\backend-dotnet",
+    "\\timesheet-app\\backend-dotnet\\TimesheetApp.API"
+  ],
+  "SelectedNode": "\\timesheet-app\\backend-dotnet\\TimesheetApp.API\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

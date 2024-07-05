@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\bert-masterclass\\SpecFlowAndSeleniumProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2BD839-964F-4688-8F83-9159B14E43F9}|SpecFlowAndSeleniumProject.csproj|c:\\projects\\bert-masterclass\\specflowandseleniumproject\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2BD839-964F-4688-8F83-9159B14E43F9}|SpecFlowAndSeleniumProject.csproj|solutionrelative:pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2BD839-964F-4688-8F83-9159B14E43F9}|SpecFlowAndSeleniumProject.csproj|c:\\projects\\bert-masterclass\\specflowandseleniumproject\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2BD839-964F-4688-8F83-9159B14E43F9}|SpecFlowAndSeleniumProject.csproj|solutionrelative:hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2BD839-964F-4688-8F83-9159B14E43F9}|SpecFlowAndSeleniumProject.csproj|c:\\projects\\bert-masterclass\\specflowandseleniumproject\\implicitusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2BD839-964F-4688-8F83-9159B14E43F9}|SpecFlowAndSeleniumProject.csproj|solutionrelative:implicitusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2BD839-964F-4688-8F83-9159B14E43F9}|SpecFlowAndSeleniumProject.csproj|c:\\projects\\bert-masterclass\\specflowandseleniumproject\\pages\\companypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2BD839-964F-4688-8F83-9159B14E43F9}|SpecFlowAndSeleniumProject.csproj|solutionrelative:pages\\companypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2BD839-964F-4688-8F83-9159B14E43F9}|SpecFlowAndSeleniumProject.csproj|c:\\projects\\bert-masterclass\\specflowandseleniumproject\\stepdefinitions\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2BD839-964F-4688-8F83-9159B14E43F9}|SpecFlowAndSeleniumProject.csproj|solutionrelative:stepdefinitions\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2BD839-964F-4688-8F83-9159B14E43F9}|SpecFlowAndSeleniumProject.csproj|c:\\projects\\bert-masterclass\\specflowandseleniumproject\\stepdefinitions\\basestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2BD839-964F-4688-8F83-9159B14E43F9}|SpecFlowAndSeleniumProject.csproj|solutionrelative:stepdefinitions\\basestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2BD839-964F-4688-8F83-9159B14E43F9}|SpecFlowAndSeleniumProject.csproj|c:\\projects\\bert-masterclass\\specflowandseleniumproject\\features\\timeregistrationapplication.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8D2BD839-964F-4688-8F83-9159B14E43F9}|SpecFlowAndSeleniumProject.csproj|solutionrelative:features\\timeregistrationapplication.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2BD839-964F-4688-8F83-9159B14E43F9}|SpecFlowAndSeleniumProject.csproj|c:\\projects\\bert-masterclass\\specflowandseleniumproject\\pages\\userpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2BD839-964F-4688-8F83-9159B14E43F9}|SpecFlowAndSeleniumProject.csproj|solutionrelative:pages\\userpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2BD839-964F-4688-8F83-9159B14E43F9}|SpecFlowAndSeleniumProject.csproj|c:\\projects\\bert-masterclass\\specflowandseleniumproject\\stepdefinitions\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2BD839-964F-4688-8F83-9159B14E43F9}|SpecFlowAndSeleniumProject.csproj|solutionrelative:stepdefinitions\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2BD839-964F-4688-8F83-9159B14E43F9}|SpecFlowAndSeleniumProject.csproj|c:\\projects\\bert-masterclass\\specflowandseleniumproject\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2BD839-964F-4688-8F83-9159B14E43F9}|SpecFlowAndSeleniumProject.csproj|solutionrelative:pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2BD839-964F-4688-8F83-9159B14E43F9}|SpecFlowAndSeleniumProject.csproj|c:\\projects\\bert-masterclass\\specflowandseleniumproject\\stepdefinitions\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2BD839-964F-4688-8F83-9159B14E43F9}|SpecFlowAndSeleniumProject.csproj|solutionrelative:stepdefinitions\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2BD839-964F-4688-8F83-9159B14E43F9}|SpecFlowAndSeleniumProject.csproj|c:\\projects\\bert-masterclass\\specflowandseleniumproject\\specflowandseleniumproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D2BD839-964F-4688-8F83-9159B14E43F9}|SpecFlowAndSeleniumProject.csproj|solutionrelative:specflowandseleniumproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImplicitUsings.cs",
+              "DocumentMoniker": "C:\\Projects\\bert-masterclass\\SpecFlowAndSeleniumProject\\ImplicitUsings.cs",
+              "RelativeDocumentMoniker": "ImplicitUsings.cs",
+              "ToolTip": "C:\\Projects\\bert-masterclass\\SpecFlowAndSeleniumProject\\ImplicitUsings.cs",
+              "RelativeToolTip": "ImplicitUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:22:21.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Projects\\bert-masterclass\\SpecFlowAndSeleniumProject\\StepDefinitions\\Company.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\Company.cs",
+              "ToolTip": "C:\\Projects\\bert-masterclass\\SpecFlowAndSeleniumProject\\StepDefinitions\\Company.cs",
+              "RelativeToolTip": "StepDefinitions\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:20:29.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Projects\\bert-masterclass\\SpecFlowAndSeleniumProject\\StepDefinitions\\BaseStepDefinitions.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\BaseStepDefinitions.cs",
+              "ToolTip": "C:\\Projects\\bert-masterclass\\SpecFlowAndSeleniumProject\\StepDefinitions\\BaseStepDefinitions.cs",
+              "RelativeToolTip": "StepDefinitions\\BaseStepDefinitions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:20:29.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "C:\\Projects\\bert-masterclass\\SpecFlowAndSeleniumProject\\Pages\\BasePage.cs",
+              "RelativeDocumentMoniker": "Pages\\BasePage.cs",
+              "ToolTip": "C:\\Projects\\bert-masterclass\\SpecFlowAndSeleniumProject\\Pages\\BasePage.cs",
+              "RelativeToolTip": "Pages\\BasePage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:20:29.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserPage.cs",
+              "DocumentMoniker": "C:\\Projects\\bert-masterclass\\SpecFlowAndSeleniumProject\\Pages\\UserPage.cs",
+              "RelativeDocumentMoniker": "Pages\\UserPage.cs",
+              "ToolTip": "C:\\Projects\\bert-masterclass\\SpecFlowAndSeleniumProject\\Pages\\UserPage.cs",
+              "RelativeToolTip": "Pages\\UserPage.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAowHkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:20:29.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Projects\\bert-masterclass\\SpecFlowAndSeleniumProject\\Pages\\HomePage.cs",
+              "RelativeDocumentMoniker": "Pages\\HomePage.cs",
+              "ToolTip": "C:\\Projects\\bert-masterclass\\SpecFlowAndSeleniumProject\\Pages\\HomePage.cs",
+              "RelativeToolTip": "Pages\\HomePage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:20:29.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Projects\\bert-masterclass\\SpecFlowAndSeleniumProject\\StepDefinitions\\Users.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\Users.cs",
+              "ToolTip": "C:\\Projects\\bert-masterclass\\SpecFlowAndSeleniumProject\\StepDefinitions\\Users.cs",
+              "RelativeToolTip": "StepDefinitions\\Users.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAYwHIAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:20:29.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Projects\\bert-masterclass\\SpecFlowAndSeleniumProject\\StepDefinitions\\Home.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\Home.cs",
+              "ToolTip": "C:\\Projects\\bert-masterclass\\SpecFlowAndSeleniumProject\\StepDefinitions\\Home.cs",
+              "RelativeToolTip": "StepDefinitions\\Home.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:20:29.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TimeRegistrationApplication.feature",
+              "DocumentMoniker": "C:\\Projects\\bert-masterclass\\SpecFlowAndSeleniumProject\\Features\\TimeRegistrationApplication.feature",
+              "RelativeDocumentMoniker": "Features\\TimeRegistrationApplication.feature",
+              "ToolTip": "C:\\Projects\\bert-masterclass\\SpecFlowAndSeleniumProject\\Features\\TimeRegistrationApplication.feature",
+              "RelativeToolTip": "Features\\TimeRegistrationApplication.feature",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAswFoAAAAxAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-07-04T09:20:29.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompanyPage.cs",
+              "DocumentMoniker": "C:\\Projects\\bert-masterclass\\SpecFlowAndSeleniumProject\\Pages\\CompanyPage.cs",
+              "RelativeDocumentMoniker": "Pages\\CompanyPage.cs",
+              "ToolTip": "C:\\Projects\\bert-masterclass\\SpecFlowAndSeleniumProject\\Pages\\CompanyPage.cs",
+              "RelativeToolTip": "Pages\\CompanyPage.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowDUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:20:29.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SpecFlowAndSeleniumProject.csproj",
+              "DocumentMoniker": "C:\\Projects\\bert-masterclass\\SpecFlowAndSeleniumProject\\SpecFlowAndSeleniumProject.csproj",
+              "RelativeDocumentMoniker": "SpecFlowAndSeleniumProject.csproj",
+              "ToolTip": "C:\\Projects\\bert-masterclass\\SpecFlowAndSeleniumProject\\SpecFlowAndSeleniumProject.csproj",
+              "RelativeToolTip": "SpecFlowAndSeleniumProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-04T09:20:29.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hooks.cs",
+              "DocumentMoniker": "C:\\Projects\\bert-masterclass\\SpecFlowAndSeleniumProject\\Hooks.cs",
+              "RelativeDocumentMoniker": "Hooks.cs",
+              "ToolTip": "C:\\Projects\\bert-masterclass\\SpecFlowAndSeleniumProject\\Hooks.cs",
+              "RelativeToolTip": "Hooks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:20:29.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
